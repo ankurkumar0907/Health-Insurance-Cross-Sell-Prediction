@@ -1,1 +1,2 @@
 # Health-Insurance-Cross-Sell-Prediction
+"Health Insurance Cross-Sell Prediction" refers to a data-driven predictive modeling task commonly found in the insurance industry, particularly in health insurance. The goal is to predict whether an existing customer of one type of insurance (typically, vehicle insurance) would be interested in purchasing another type of insurance, in this case, health insurance. This type of prediction helps insurance companies target their marketing efforts more effectively and efficiently.
